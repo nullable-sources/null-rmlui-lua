@@ -1,0 +1,9 @@
+* text=auto
+
+*.c linguist-language=cpp
+*.cpp linguist-language=cpp
+*.h linguist-language=cpp
+*.hpp linguist-language=cpp
+
+*.rml linguist-language=HTML
+*.rcss linguist-language=CSS
